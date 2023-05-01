@@ -1,1 +1,1 @@
-public static void main(String[] args)
+## simple java code
